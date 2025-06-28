@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Notícias exclusivas de Joy Walker. Acompanhe as novidades com estilo.">
+    <meta name="keywords" content="Joy Walker, Notícias, Atualizações, Música, Tendências">
+    <meta name="author" content="Joy Walker News">
+    <meta name="robots" content="index,follow">
+    <meta http-equiv="Content-Language" content="pt-BR">
+
+<!-- Meta tag para redes sociais (Open Graph) -->
+<meta property="og:title" content="Notícias de Joy Walker - Últimas Atualizações">
+<meta property="og:description" content="Notícias exclusivas de Joy Walker. Acompanhe as novidades com estilo.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://seusite.com/">
+<meta property="og:image" content="https://seusite.com/imagem-de-capa.jpg">
+
+<!-- Meta tags para Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Notícias de Joy Walker - Últimas Atualizações">
+<meta name="twitter:description" content="Notícias exclusivas de Joy Walker. Acompanhe as novidades com estilo.">
+<meta name="twitter:image" content="https://seusite.com/imagem-de-capa.jpg">
+<meta name="twitter:site" content="@joywalker">
+
+<!-- Meta tag para configurar o cache e evitar problemas de indexação -->
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+
+<!-- Meta tag para definir o tema da cor da barra de endereço em dispositivos móveis -->
+<meta name="theme-color" content="#0b0b0b">
+
+<!-- Meta tag para especificar o autor e direitos -->
+<meta name="copyright" content="© 2025 Joy Walker News">
+
+<!-- Meta tag para controlar o viewport para zoom -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Notícias de Joy Walker - Últimas Atualizações</title>
+
+    <style>
+        body {
+            background-color: #0b0b0b;
+            color: #f00;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1a1a1a;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        main {
+            padding: 20px;
+        }
+        article {
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #ff3333;
+        }
+        .ad-banner {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: yellow;
+            color: red;
+            padding: 20px;
+            font-weight: bold;
+            font-size: 1.5em;
+            animation: blink 1s infinite;
+            z-index: 9999;
+        }
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+        .music-player {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            background-color: #222;
+            padding: 10px;
+            border-radius: 8px;
+            z-index: 999;
+            color: white;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #1a1a1a;
+            color: #aaa;
+            margin-top: 40px;
+        }
+        /* Estiliza botão ativar som */
+        #playSound {
+            margin-top: 8px;
+            padding: 5px 10px;
+            font-size: 0.9em;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            background-color: #ff3333;
+            color: white;
+            transition: background-color 0.3s ease;
+        }
+        #playSound:hover {
+            background-color: #cc0000;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Joy Walker News</h1>
+    <p>As últimas notícias e atualizações</p>
+</header>
+
+<div class="ad-banner">
+    🔥<a href="#" target="_blank" id="novo">CONFIRA ESSA OPORTUNIDADE!</a>
+</div>
+
+<main>
+            <article>
+                <h2>Joy Walker lança novo single surpreendente</h2>
+                <p>O novo lançamento de Joy Walker já está nas plataformas! Veja detalhes sobre o processo criativo e os bastidores dessa obra.</p>
+            </article>
+            <article>
+                <h2>Turnê 2025 confirmada!</h2>
+                <p>Joy Walker anunciou sua nova turnê mundial para 2025. Confira datas, cidades e onde comprar ingressos.</p>
+            </article>
+            <article>
+            <h2>Joy Walker confirma participação em filme internacional</h2>
+            <p>A cantora fará parte do elenco de um drama musical de Hollywood previsto para estrear no final de 2025.</p>
+        </article>
+
+        <article>
+            <h2>Joy surpreende com remix inédito de hit antigo</h2>
+            <p>O remix da música “Luz do Amanhecer” traz uma pegada eletrônica e já é destaque nas pistas de dança da Europa.</p>
+        </article>
+
+        <article>
+            <h2>Exposição interativa de Joy chega a museu em São Paulo</h2>
+            <p>Com figurinos icônicos e realidade aumentada, a mostra celebra os 10 anos de carreira da artista.</p>
+        </article>
+
+        <article>
+            <h2>Joy Walker será jurada no The Voice Brasil</h2>
+            <p>A cantora se junta ao time de jurados na nova temporada do reality musical e promete grandes emoções.</p>
+        </article>
+
+        <article>
+            <h2>Joy Walker fecha contrato com marca de cosméticos</h2>
+            <p>Ela será o rosto da nova linha de maquiagem vegana que destaca beleza natural e diversidade.</p>
+        </article>
+
+        <article>
+            <h2>Joy grava clipe em cenário inusitado no deserto</h2>
+            <p>As gravações ocorreram no Atacama, no Chile, com direção de um cineasta premiado.</p>
+        </article>
+
+        <article>
+            <h2>Joy Walker lança versão acústica de seus maiores sucessos</h2>
+            <p>O álbum acústico já está disponível nas plataformas digitais e traz interpretações intimistas.</p>
+        </article>
+
+        <article>
+            <h2>Joy Walker será homenageada no Dia Nacional da Música</h2>
+            <p>Com uma carreira sólida e engajada, Joy será tema de tributo em rede nacional.</p>
+        </article>
+
+        <article>
+            <h2>Nova série documental sobre Joy em produção</h2>
+            <p>A produção será dividida em 6 episódios e mostrará bastidores inéditos da vida pessoal e profissional.</p>
+        </article>
+
+        <article>
+            <h2>Joy Walker lidera ranking de artistas mais influentes</h2>
+            <p>Segundo pesquisa da Billboard, Joy está entre os 3 artistas mais influentes da América Latina em 2025.</p>
+        </article>
+
+    <!-- (Outros artigos omitidos para brevidade) -->
+</main>
+
+<div class="music-player">
+    <audio id="music" autoplay muted loop>
+        <source src="musica.mp3" type="audio/mpeg">
+        Seu navegador não suporta áudio HTML5.
+    </audio>
+    <button id="playSound">Ativar Som</button>
+</div>
+
+<footer>
+    &copy; Joy Walker News. Todos os direitos reservados.
+</footer>
+
+<script>
+    function mudar() {
+        const links = [
+            "https://hostinger.com.br?REFERRALCODE=SSNVICTORXU8",
+            'https://geocredibnkvitoria.com/',
+            'https://vpserp.vercel.app/',
+            'https://creditopessoal.vercel.app/',
+            'https://brasilbrasileiross.blogspot.com/',
+            'https://stfly.biz/7MNLF',
+            'https://www.espiritosanto-es.com.br/linhadotempovitoria/',
+            'https://piadasrepositorio.vercel.app/',
+            'https://www.youtube.com/watch?v=gBclanEnn88',
+            'https://ocomerciobrasileironoticia.blogspot.com/2025/05/erp-profissional-para-empresas.html',
+            'https://www.youtube.com/@gamenologia',
+            'https://jogosantigos472302513.wordpress.com/maquinas-vps-temos-todas-as-opcoes-de-maqinas-para-voce/',
+            'https://geocredibnkvitoria.com/',
+            'https://www.youtube.com/watch?v=gBclanEnn88',
+            'https://bibliadonline.netlify.app/',
+            'https://brasilbrasileiross.blogspot.com/',
+            'https://www.larissasaib.com.br/',
+            'https://remarkable-gelato-4db597.netlify.app/consorciopagina.html',
+            'https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g',
+            'https://hostinger.com.br/?REFERRALCODE=SSNVICTORXU8'
+        ];
+        function random(arr) {
+            return Math.floor(Math.random() * arr.length);
+        }
+        const mudarLink = links[random(links)];
+        document.getElementById('novo').href = mudarLink;
+    }
+
+    setInterval(mudar, 1); // muda o link a cada 5 segundos para não sobrecarregar
+
+    // Controle do áudio e botão ativar som
+    const audio = document.getElementById("music");
+    const btn = document.getElementById("playSound");
+
+    btn.addEventListener("click", () => {
+        audio.muted = false;
+        audio.volume = 0.1;
+        audio.play().catch(e => console.warn("Erro ao tocar áudio:", e));
+        btn.style.display = 'none';
+    });
+
+    // Inicializa o link no banner ao carregar a página
+    window.addEventListener("load", mudar);
+</script>
+
+</body>
+</html>
